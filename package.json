@@ -1,0 +1,23 @@
+{
+  "name": "nmma-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chidev/nmma-pdf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chidev/nmma-pdf/issues"
+  },
+  "homepage": "https://github.com/chidev/nmma-pdf#readme",
+  "dependencies": {
+    "@pdf-lib/fontkit": "0.0.4",
+    "pdf-lib": "^1.2.1"
+  }
+}
